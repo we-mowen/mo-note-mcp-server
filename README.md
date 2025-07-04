@@ -75,9 +75,13 @@
 ```
 
 ## ScreenShot
-![image](https://pub-sdn-001.mowen.cn/mo/static/mcp/guide.png)
+<p align="center">
+  <img src="assets/guide.png" style="width: 100%; height: auto;">
+</p>
 
-![image](https://pub-sdn-001.mowen.cn/mo/static/mcp/sample.jpg)
+<p align="center">
+  <img src="assets/sample.jpg" style="width: 100%; height: auto;">
+</p>
 
 ## 可适配平台
 
