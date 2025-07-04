@@ -72,12 +72,12 @@
 #### Prompt示例
 ```
 {URL} ，将图片保存至墨问
+```
 
-### ScreenShot
+#### ScreenShot
 ![image](https://pub-sdn-001.mowen.cn/mo/static/mcp/guide.png)
 
 ![image](https://pub-sdn-001.mowen.cn/mo/static/mcp/sample.jpg)
-```
 
 ## 可适配平台
 
