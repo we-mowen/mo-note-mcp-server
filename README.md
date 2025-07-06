@@ -109,7 +109,3 @@ trae，cursor 等所有支持 [Streamable HTTP](https://modelcontextprotocol.io/
   }
 }
 ```
-
-## License
-
- [MIT License](https://github.com/volcengine/mcp-server/blob/main/LICENSE)
